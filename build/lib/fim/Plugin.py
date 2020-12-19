@@ -19,10 +19,3 @@ class Plugin:
                 else:
                     re = await r.json()
                 return re
-    def information(self):
-        print("""
-        Fim은 Fi 봇 전용 개발용 모듈입니다. 이에 따라 버그가 있거나, 심각한 오류가 생길 수도 있습니다.
-        How to use Fim?
-
-        1.
-        """)

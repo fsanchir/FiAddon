@@ -1,8 +1,8 @@
 import setuptools
 
 setuptools.setup(
-    name="fim",
-    version="0.0.1",
+    name="fimodule",
+    version="0.0.3",
     license='MIT',
     author="FSanchir",
     author_email="fsanchir@fsip.ml",
@@ -16,7 +16,7 @@ setuptools.setup(
     ],
     classifiers=[
         # 패키지에 대한 태그
-        "Programming Language :: Python :: 3.6.4",
+        "Programming Language :: Python :: 3.6",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent"
     ],
